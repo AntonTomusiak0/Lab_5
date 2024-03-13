@@ -40,6 +40,8 @@
             };
             CreditСard card3 = card1 + 200;
             CreditСard card4 = card2 - 100;
+            Matrix matrix1 = new Matrix(5,6);
+            Matrix matrix2 = new Matrix(5,6);
             int whil = 0;
             while (whil <= 0)
             {
